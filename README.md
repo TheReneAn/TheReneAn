@@ -7,9 +7,9 @@ I'm a dedicated programmer with a passion for leveraging technology to make a po
 
 ## Tech Stack
 
-- 💻 Languages: C, C++, C#, Java, Python, JavaScript, Node.js
+- 💻 Languages: C, C++, C#, Java, Python, JavaScript
 - 🎮 Game Development: Unity, Unity Toolkit, VR/AR, Photoshop, Adobe Premier Pro
-- 🌐 Web Development: HTML, CSS, React, Angular
+- 🌐 Web Development: HTML, CSS, React, Angular, Node.js
 - 🛠️ Tools: Git, Unix/Linux, Oracle Database, UML, JSON, VBA, Microsoft Oﬃce
 
 ## 📫 How to reach me:
