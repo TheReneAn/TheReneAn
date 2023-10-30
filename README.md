@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to Rene's GitHub profile! 🚀
 
-<!--
-**YoujinAn/YoujinAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me:
 
-Here are some ideas to get you started:
+Hi there 👋 I'm a dedicated programmer with a passion for leveraging technology to make a positive impact on people's lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- 💻 Programming  Languages: C, C++, C#, Python, JavaScript
+- 🎮 Game Engines: Unity
+- 🌐 Web Development: HTML, CSS, React
+- 🛠️ Tools: Git, VS Code, Tortoise
+
+## 📫 How to reach me:
+
+Feel free to reach out to me via [email](mailto:auj0827@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rene-an/).
